@@ -1,0 +1,32 @@
+Experience in work: 
+In Space Research Institute I have passed my Bachelor degree (2010) 
+and now I keep working on my Master degree in Space research specialty. 
+The major point of my science work is to solve direct and reversal 
+radiative transfer problem in relation to the atmosphere of Mars. 
+Since 2008 September, I have developed a complete and reliable software 
+to solve the problem mentioned above, it had been written on C/C++, 
+Fortran 90, Matlab 7 and IDL 6.4. First of all, my software can be 
+used to calculate the solution of direct radiative transfer problem 
+for given conditions of observation and hence obtain multiple spectra 
+of the outgoing thermal radiation in Martian atmosphere. This problem 
+includes well-known radiative transfer equation with thermal sources 
+and multiple scattering, and I was using several stable numerical techniques, 
+like Spherical Harmonic (SHDOMPP) and Discrete Ordinates (DISORT). 
+I have also written complete software to calculate optical properties 
+of aerosol according to Mie scattering theory. This step of calculation 
+is very stable and precise. Given a spectrum, one can solve reversal 
+radiative transfer problem and obtain several important atmospheric properties, 
+such as temperature profiles and aerosol optical depths, iteratively. 
+At this step I was using two different iterative algorithms: Taylor’s Relaxation 
+and Statistical Regularization, which is a part of Rodgers’ formalism. Of course, 
+this step of calculation is also very precise and stable.
+This software can be applied to retrieve and visualize Martian atmospheric 
+temperatures and aerosol optical depths from massacre data, gathered by 
+infrared spectrometers onboard spacecrafts. I have applied my software to 
+process data from Planetary Fourier Spectrometer (PFS) onboard “Mars-Express”, 
+and got quite good results. Using this software, one can retrieve the values of 
+some Martian atmospheric properties for every chosen condition of observation, geography, etc.
+During my science work, I have also analyzed almost every block of data, gathered by PFS, 
+and made almost complete colored maps of Martian atmospheric temperatures and aerosols. 
+On these maps I have recognized a sort of Rossby waves in Martian atmosphere, that is quite 
+good science result, because these waves hadn’t been recognized for Mars (only for Venus) till now.

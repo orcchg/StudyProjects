@@ -1,0 +1,267 @@
+p {
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+
+h3 {
+  margin-top: 15px;
+  margin-bottom: 0px;
+}
+
+.componentbox {
+  background-color: #D5DDF9;
+  color: black;
+  border: thin groove #000066;
+  margin: 2px;
+  padding: 1px;
+  vertical-align: top;
+}
+
+.componentboxsecond {
+  background-color: #FAFAFA;
+  color: black;
+  border: thin groove #000066;
+  margin: 2px;
+  padding: 1px;
+  vertical-align: top;
+}
+
+.componentboxheader {
+  background-color: #254285;
+  color: #FFFFFF;
+  padding: 2px;
+}
+
+.componentboxcontents {
+  padding: 4px;
+  overflow: hidden;
+}
+
+a.componentboxheaderlink {
+  color: #C7D2FA;
+}
+
+a.componentboxheaderlink:visited {
+  color: #C7D2FA;
+}
+
+a.componentboxlink {
+  color: #132D84;
+}
+
+a.componentboxlink:visited {
+  color: #132D84;
+}
+
+.componentboxlist {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 15px;
+  list-style-type: none;
+}
+
+.componentboxhider {
+}
+
+.componentboxunhider {
+}
+
+.viewingtable {
+  width: 100%;
+  padding: 0px;
+  margin: 0px;
+}
+
+.viewingtablecell {
+  padding: 0px;
+  margin: 0px;
+  vertical-align: top;
+}
+
+.problemsmallnumber {
+  text-align: left;
+}
+
+.problemsmallsubject {
+  width: 100%;
+  text-align: center;
+}
+
+.problemsmalldifficulty {
+  text-align: right;
+  padding: 2px;
+}
+
+.problemsmallcaptiontable {
+  padding: 0px;
+  margin: 0px;
+}
+
+.catalogueproblemauthorold {
+  font-size: x-small;
+  font-style: italic;
+}
+.catalogueproblemauthor {
+  font-size: x-small;
+  font-weight: bold;
+}
+
+.progressbar {
+  border: thin solid #000033;
+}
+
+.cataloguefilterform {
+  margin: 4px;
+  padding: 0px;
+}
+
+.cataloguesearchform {
+  margin: 4px;
+  padding: 0px;
+}
+
+.exportform {
+  margin: 4px;
+  padding: 0px;
+}
+
+.indexpagetitle {
+  text-align: center;
+}
+
+.authorstable {
+}
+
+.authorstablecell {
+}
+
+.problembynumberform {
+  margin: 0px;
+  padding: 0px;
+}
+
+.problemoftheday {
+  text-align: justify;
+}
+
+.indexsearchform {
+  text-align: center;
+}
+
+.footertable {
+  width: 100%;
+  padding: 0px;
+  margin: 0px;
+}
+
+.footercell {
+  padding: 0px;
+  margin: 0px;
+  vertical-align: top;
+}
+
+.navigationform {
+  margin: 0px;
+  padding: 0px;
+  display: inline;
+}
+
+.problemdetailslist {
+  margin-top: 0px;
+  margin-bottom: 0px;
+} 
+
+.problemdetailssubject {
+  text-align: left;
+  vertical-align: top;
+}
+
+.problemdetailsdifficulty {
+  text-align: center;
+  width: 100%;
+  padding: 2px;
+  vertical-align: top;
+}
+
+.problemdetailsbasket {
+  text-align: right;
+  padding: 2px;
+  vertical-align: top;
+}
+
+.problemdetailscaptiontable {
+  padding: 0px;
+  margin: 0px;
+}
+
+.problemdetailssourcetablecontainer {
+  text-align: left;
+}
+
+.problemdetailssourcetable {
+  border: 0px;
+  margin: 0px;
+  background-color: #555555;
+  color: black;
+}
+
+.problemdetailssourcetablecell {
+  border: 0px;
+  margin: 0px;
+  padding: 2px;
+  background-color: #FAFAFA;
+  color: black;
+}
+
+.problemdetailssourcetablecellhead {
+  border: 0px;
+  margin: 0px;
+  padding: 2px;
+  background-color: #FAFAFA;
+  color: black;
+  font-weight: bold;
+  text-align: center;
+}
+
+.problemsmallsubjecttable {
+  padding: 0px;
+  margin: 0px;
+}
+
+.problemsmallsubjecttablecell {
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+}
+
+.problemdetailssubjecttable {
+  padding: 0px;
+  margin: 0px;
+}
+
+.problemdetailssubjecttablecell {
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+}
+
+.headerproblembynumberform {
+  margin: 0px;
+  padding: 0px;
+  display: inline;
+}
+
+.abouttext {
+  text-align: justify;
+}
+
+.problemfootertable {
+  padding: 0px;
+  margin: 0px;
+}
+
+.problemfootertablecell {
+  padding: 0px;
+  margin: 0px;
+  vertical-align: top;
+}

@@ -1,0 +1,45 @@
+-func_0	int nod(int a, int b)
+func_1	int power(int a, int n)
+func_2	int atoi(char a[])		c = getchar(); x = c-'0'; putchar(c); isspace, isdigit, isalphanum, isalpha.
+					печать двухмерного массива
+func_3	void fill_rectangle(int w, int h)
+func_4	void draw_rectangle(int w, int h, char c)
+func_5  узор из прямоугольников простой (4 четверти и два прямоугольника как кольца)
+func_6  узор из прямоугольников сложный
+ 
+func_7	void revers(char a[], int n).
+func_8	void add(char a[], char b[], char res[]);
+
+------------------------------------------------
+
+func_8	int is_palindrom(char a[], int n), void revers(char a[], int n).
+func_9	int is_palindrom(char a[], int n) и void revers(char a[], int n), int only_letters(char a[], int n) воспользуйтесь strncmp(a, b, n)
+func_10	int my_strnicmp(char a[], char b[], int n)
+
+
+
+введите функцию void revers(int a[], int n). С ее помощью обратите массив и напечатайте его в обратном порядке.
+
+введите функцию  void revers(char  a[], int n) и int compare(char a[], char b[], int n). С их помощью выясните, является ли первое введеное слово зеркальным отображением второго.
+
+палиндром
+
+atoi
+strnicmp
+
+scan_llu как угодно (это простая задача на цикл)
+
+print_llu через рекурсию
+
+многократный переворот - это в указатели. пусть используют функцию void revers(int * a, int n) для переворота части массива.
+
+func_3	a^n через рекурентную формулу с печатью вычисляемой степени.
+
+генерация последовательности из N 0 и 1 длины К.
+размены все
+
+проверка скобочного выражения на алфавите ()
+
+размен наименьшим количеством монет
+проверка скобочного выражения на алфавите (){}[]<>
+палиндром без пробелов и знаков препинания

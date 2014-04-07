@@ -1,0 +1,588 @@
+
+/* Samsung Electronics Co. Ltd.
+ * Author: Maxim Alov  <m.alov@samsung.com>  Tue 21, 6:01 pm, +0100.
+ *
+ * Name: video conference GUI Theme;
+ * Project: Multimedia FW;
+ *
+ * Compile: edje_cc -v -id . -fd ./fonts vconf.edc vconf.edj
+ *
+ * Description: This is a set of declarations, representing GUI - widget layout and signals emission,
+ *              storing it with images and fonts in single EET binary (historically named EDJ binaries), called 'vconf.edj';
+ *
+ */
+ 
+ #define PARTICIPANT(user_name)                               \
+   group {                                                    \
+     name: "group_"user_name;                                 \
+     min: 3 3;                                                \
+     max: 2000 2000;                                          \
+                                                              \
+     parts {                                                  \
+       part {                                                 \
+         name: user_name;                                     \
+         type: SWALLOW;                                       \
+                                                              \
+         description {                                        \
+           state: "default" 0.0;                              \
+         }                                                    \
+                                                              \
+         description {                                        \
+           state: "down" 0.0;                                 \
+           inherit: "default" 0.0;                            \
+           color: 255 255 255 128;                            \
+         }                                                    \
+       }                                                      \
+                                                              \
+       part {                                                 \
+         name: "events";                                      \
+         type: RECT;                                          \
+         mouse_events: 1;                                     \
+                                                              \
+         description {                                        \
+           state: "default" 0.0;                              \
+           color: 0 0 0 0;                                    \
+           visible: 1;                                        \
+         }                                                    \
+       }                                                      \
+     }                                                        \
+     programs {                                               \
+       program {                                              \
+         name: "emission";                                    \
+         signal: "mouse,down,1";                              \
+         source: "events";                                    \
+         action: SIGNAL_EMIT "SIG_VIDEO_CLICKED" "events";    \
+       }                                                      \
+     }                                                        \
+   }                                    
+
+
+// ----------------------------------------------------------------------------
+images {
+  image: "icon.png" COMP;
+}
+
+
+// ----------------------------------------------------------------------------
+fonts {
+  font: "Vera.ttf" "Vera";
+}
+
+
+// ----------------------------------------------------------------------------
+collections {
+  
+  
+  // --------------------------------------------------------------------------
+  group {
+    name: "group_main_interface";
+    min: 10 10;
+    max: 2000 2000;
+    
+    parts {
+      // Background
+      part {
+        name: "bg";
+        type: RECT;
+        
+        description {
+          state: "default" 0.0;
+          color: 128 128 128 255;
+          
+          rel1 {
+            offset: 0 0;
+          }
+          rel2 {
+            offset: 0 0;
+          }
+        }
+      }  // close "bg" part
+      
+      part {
+        name: "top_controller_swallow";
+        type: SWALLOW;
+        
+        description {
+          state: "default" 0.0;
+          
+          rel1 {
+            relative: 0.2 0.2;
+            offset: 0 0;
+          }
+          rel2 {
+            relative: 0.8 0.4;
+            offset: 0 0;
+          }
+        }
+      }  // close "top_controller_swallow" part
+      
+     part {
+        name: "center_controller_swallow";
+        type: SWALLOW;
+        
+        description {
+          state: "default" 0.0;
+          
+          rel1 {
+            relative: 0.2 0.4;
+            offset: 0 0;
+          }
+          rel2 {
+            relative: 0.8 0.6;
+            offset: 0 0;
+          }
+        }
+      }  // close "center_controller_swallow" part
+      
+      part {
+        name: "bottom_controller_swallow";
+        type: SWALLOW;
+        
+        description {
+          state: "default" 0.0;
+          
+          rel1 {
+            relative: 0.2 0.6;
+            offset: 0 0;
+          }
+          rel2 {
+            relative: 0.8 0.8;
+            offset: 0 0;
+          }
+        }
+      }  // close "bottom_controller_swallow" part
+      
+    }
+  }  // close "group_main_interface"
+  
+  
+  // --------------------------------------------------------------------------
+  group {
+    name: "group_top_controller";
+    min: 2 2;
+    max: 400 400;
+    
+    externals {
+      external: "elm";
+    }
+    
+    parts {
+      part {
+        name: "top_controller";
+        type: EXTERNAL;
+        source: "elm/button";
+        
+        description {
+          state: "default" 0.0;
+          fixed: 1 1;
+
+          params {
+            string: "label" "Create new conference";
+          }
+        }
+      }  // close "top_controller" part
+    }
+  }  // close "group_top_controller"
+  
+  
+  // --------------------------------------------------------------------------
+  group {
+    name: "group_center_controller";
+    min: 2 2;
+    max: 400 400;
+    
+    externals {
+      external: "elm";
+    }
+    
+    parts {
+      part {
+        name: "center_controller";
+        type: EXTERNAL;
+        source: "elm/button";
+        
+        description {
+          state: "default" 0.0;
+          fixed: 1 1;
+          
+          params {
+            string: "label" "Connect to conference";
+          }
+        }
+      }  // close "center_controller" part
+    }
+  }  // close "group_center_controller"
+  
+  
+  // --------------------------------------------------------------------------
+  group {
+    name: "group_bottom_controller";
+    min: 2 2;
+    max: 400 400;
+    
+    externals {
+      external: "elm";
+    }
+    
+    parts {
+      part {
+        name: "bottom_controller";
+        type: EXTERNAL;
+        source: "elm/button";
+        
+        description {
+          state: "default" 0.0;
+          fixed: 1 1;
+
+          params {
+            string: "label" "Quit";
+          }
+        }
+      }  // close "bottom_controller" part
+    }
+  }  // close "group_bottom_controller"
+  
+  
+  // --------------------------------------------------------------------------
+  group {
+    name: "group_video_table_interface";
+    min: 10 10;
+    max: 2000 2000;
+    
+    parts {
+      // Background
+      part {
+        name: "bg";
+        type: RECT;
+        
+        description {
+          state: "default" 0.0;
+          color: 128 128 128 255;
+          
+          rel1 {
+            offset: 0 0;
+          }
+          rel2 {
+            offset: 0 0;
+          }
+        }
+      }  // close "bg" part
+      
+      part {
+        name: "upper_left_video_swallow";
+        type: SWALLOW;
+        
+        description {
+          state: "default" 0.0;
+          
+          rel1 {
+            relative: 0.0 0.0;
+            offset: 0 0;
+          }
+          rel2 {
+            relative: 0.5 0.5;
+            offset: 0 0;
+          }
+        }
+      }  // close "upper_left_video_swallow" part
+      
+      part {
+        name: "upper_right_video_swallow";
+        type: SWALLOW;
+        
+        description {
+          state: "default" 0.0;
+          
+          rel1 {
+            relative: 0.5 0.0;
+            offset: 0 0;
+          }
+          rel2 {
+            relative: 1.0 0.5;
+            offset: 0 0;
+          }
+        }
+      }  // close "upper_right_video_swallow" part
+      
+      part {
+        name: "lower_left_video_swallow";
+        type: SWALLOW;
+        
+        description {
+          state: "default" 0.0;
+          
+          rel1 {
+            relative: 0.0 0.5;
+            offset: 0 0;
+          }
+          rel2 {
+            relative: 0.5 1.0;
+            offset: 0 0;
+          }
+        }
+      }  // close "lower_left_video_swallow" part
+      
+      part {
+        name: "lower_right_video_swallow";
+        type: SWALLOW;
+        
+        description {
+          state: "default" 0.0;
+          
+          rel1 {
+            relative: 0.5 0.5;
+            offset: 0 0;
+          }
+          rel2 {
+            relative: 1.0 1.0;
+            offset: 0 0;
+          }
+        }
+      }  // close "lower_right_video_swallow" part
+    }
+  }  // close "group_video_table_interface"
+  
+  
+  // --------------------------------------------------------------------------
+  PARTICIPANT("participant_one")
+  PARTICIPANT("participant_two")
+  PARTICIPANT("participant_three")
+  PARTICIPANT("participant_four")
+  
+  
+  // --------------------------------------------------------------------------
+  group {
+    name: "group_create_connect_interface";
+    min: 10 10;
+    max: 2000 2000;
+    
+    parts {
+      // Background
+      part {
+        name: "bg";
+        type: RECT;
+        
+        description {
+          state: "default" 0.0;
+          color: 128 128 128 255;
+          
+          rel1 {
+            offset: 0 0;
+          }
+          rel2 {
+            offset: 0 0;
+          }
+        }
+      }  // close "bg" part
+      
+      part {
+        name: "text_label_swallow";
+        type: SWALLOW;
+        
+        description {
+          state: "default" 0.0;
+          
+          rel1 {
+            relative: 0.2 0.0;
+            offset: 0 5;
+          }
+          rel2 {
+            relative: 0.8 0.1;
+            offset: 0 0;
+          }
+        }
+      }  // close "text_label_swallow" part
+      
+      part {
+        name: "entry_swallow";
+        type: SWALLOW;
+        
+        description {
+          state: "default" 0.0;
+          
+          rel1 {
+            relative: 0.2 0.1;
+            offset: 0 0;
+          }
+          rel2 {
+            relative: 0.8 0.2;
+            offset: 0 0;
+          }
+        }
+      }  // close "entry_swallow_part"
+      
+      part {
+        name: "left_controller_swallow";
+        type: SWALLOW;
+        
+        description {
+          state: "default" 0.0;
+          
+          rel1 {
+            relative: 0.2 0.3;
+            offset: 0 0;
+          }
+          rel2 {
+            relative: 0.4 0.5;
+            offset: 0 0;
+          }
+        }
+      } // close "left_controller_swallow" part
+      
+      part {
+        name: "right_controller_swallow";
+        type: SWALLOW;
+        
+        description {
+          state: "default" 0.0;
+          
+          rel1 {
+            relative: 0.6 0.3;
+            offset: 0 0;
+          }
+          rel2 {
+            relative: 0.8 0.5;
+            offset: 0 0;
+          }
+        }
+      }  // close "right_controller_swallow" part
+    }
+  }  // close "group_create_connect_interface"
+  
+  
+  // --------------------------------------------------------------------------
+  group {
+    name: "group_create_text_label";
+    min: 6 1;
+    max: 1200 200;
+    
+    parts {
+      part {
+        name: "create_text_label";
+        type: TEXT;
+        effect: SOFT_SHADOW;
+        
+        description {
+          state: "default" 0.0;
+          color: 255 255 255 255;
+          
+          text {
+            text: "Enter name of new conference";
+            font: "Vera";
+            size: 16;
+            align: 0.5 0.0;
+          }
+        }
+      }  // close "create_text_label" part
+    }
+  }  // close "group_create_text_label";
+  
+  
+  // --------------------------------------------------------------------------
+  group {
+    name: "group_connect_text_label";
+    min: 6 1;
+    max: 1200 200;
+    
+    parts {
+      part {
+        name: "connect_text_label";
+        type: TEXT;
+        effect: SOFT_SHADOW;
+        
+        description {
+          state: "default" 0.0;
+          color: 255 255 255 255;
+          
+          text {
+            text: "Enter name of existing conference";
+            font: "Vera";
+            size: 16;
+            align: 0.5 0.0;
+          }
+        }
+      }  // close "connect_text_label" part
+    }
+  }  // close "group_connect_text_label";
+  
+  
+  // --------------------------------------------------------------------------
+  group {
+    name: "group_entry";
+    min: 6 1;
+    max: 1200 200;
+    
+    externals {
+      external: "elm";
+    }
+    
+    parts {
+      part {
+        name: "entry";
+        type: EXTERNAL;
+        source: "elm/entry";
+        
+        description {
+          state: "default" 0.0;
+        }
+      }  // close "entry" part
+    }
+  }  // close "group_entry"
+  
+
+  // --------------------------------------------------------------------------
+  group {
+    name: "group_left_controller";
+    min: 2 2;
+    max: 400 400;
+    
+    externals {
+      external: "elm";
+    }
+    
+    parts {
+      part {
+        name: "left_controller";
+        type: EXTERNAL;
+        source: "elm/button";
+        
+        description {
+          state: "default" 0.0;
+          
+          params {
+            string: "label" "Ok";
+          }
+        }
+      }  // close "left_controller" part
+    }
+  }  // close "group_left_controller"
+  
+  
+  // --------------------------------------------------------------------------
+  group {
+    name: "group_right_controller";
+    min: 2 2;
+    max: 400 400;
+    
+    externals {
+      external: "elm";
+    }
+    
+    parts {
+      part {
+        name: "right_controller";
+        type: EXTERNAL;
+        source: "elm/button";
+        
+        description {
+          state: "default" 0.0;
+          
+          params {
+            string: "label" "Cancel";
+          }
+        }
+      }  // close "right_controller" part
+    }
+  }  // close "group_right_controller"
+
+}  /* collections: close */

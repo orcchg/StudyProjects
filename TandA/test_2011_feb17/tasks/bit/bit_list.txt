@@ -1,0 +1,10 @@
+bit_0	check xor
+bit_1	is female?
+bit_2	has hat?
+bit_3	is blond?
+bit_4	краткая характеристика - развернуть	004.ans, html
+bit_5	составить краткую характеристику	html
+bit_6	сколько бит в байте и int
+bit_7	little-endian or big-endian?
+bit_8	detect endianness 
+*bit_9	сколько бит в мантиссе float и double

@@ -1,0 +1,2 @@
+g++ vconfguimain.cc -o vconf vconf.cc vconfpopup.cc vconfrender.cc $(pkg-config --cflags --libs gstreamer-0.10 elementary)
+

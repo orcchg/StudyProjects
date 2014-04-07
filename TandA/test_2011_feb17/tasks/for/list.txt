@@ -1,0 +1,18 @@
+for_1	sum
+for_2	sum без печати сколько будет чисел
+for_3	отбрасываем нечетные C:\cygwin\home\taty\work\cs-tests\cs-tests\problems\filter_odd\info.tex 
+for_4	n!
+for_5	a^n
+for_6	сколько раз встретилась в числе х цифра d
+for_7	НОД и НОК
+for_8	Строка из N символов *
+for_9	Прямоугольник из *
+for_10	Число в обратном порядке без ведущих нулей
+for_11	oct2bin
+for_12	n, числа от 1 до n вразнобой без одного числа. Найти пропущенное число
+
+for_13	n! с печатью максимально представимых
+for_14	() соответствие открывающих и закрывающих скобок http://acm.mipt.ru/judge/problems.pl?CGISESSID=2946ae9b6791d32626f8a7c747b33c0a&problem=008
+for_15	a^n (копия for_5) хитрожопое http://acm.mipt.ru/twiki/bin/view/Cintro/Power
+
+for_100 таблица умножения

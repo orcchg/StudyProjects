@@ -1,0 +1,2 @@
+This line has been written directly into the file show.txt
+fdsgdsgsggvd

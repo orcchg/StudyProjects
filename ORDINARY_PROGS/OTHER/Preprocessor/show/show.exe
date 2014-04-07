@@ -1,0 +1,55 @@
+# 1 "show.cpp"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "show.cpp"
+# 1 "p:\\maxoid\\programs\\gcc c++\\mingw\\bin\\../lib/gcc/mingw32/4.5.2/../../../../include/limits.h" 1 3
+# 21 "p:\\maxoid\\programs\\gcc c++\\mingw\\bin\\../lib/gcc/mingw32/4.5.2/../../../../include/limits.h" 3
+# 1 "p:\\maxoid\\programs\\gcc c++\\mingw\\bin\\../lib/gcc/mingw32/4.5.2/../../../../include/_mingw.h" 1 3
+# 31 "p:\\maxoid\\programs\\gcc c++\\mingw\\bin\\../lib/gcc/mingw32/4.5.2/../../../../include/_mingw.h" 3
+       
+# 32 "p:\\maxoid\\programs\\gcc c++\\mingw\\bin\\../lib/gcc/mingw32/4.5.2/../../../../include/_mingw.h" 3
+# 22 "p:\\maxoid\\programs\\gcc c++\\mingw\\bin\\../lib/gcc/mingw32/4.5.2/../../../../include/limits.h" 2 3
+# 2 "show.cpp" 2
+# 1 "p:\\maxoid\\programs\\gcc c++\\mingw\\bin\\../lib/gcc/mingw32/4.5.2/../../../../include/float.h" 1 3
+# 19 "p:\\maxoid\\programs\\gcc c++\\mingw\\bin\\../lib/gcc/mingw32/4.5.2/../../../../include/float.h" 3
+# 1 "p:\\maxoid\\programs\\gcc c++\\mingw\\bin\\../lib/gcc/mingw32/4.5.2/include/float.h" 1 3 4
+# 20 "p:\\maxoid\\programs\\gcc c++\\mingw\\bin\\../lib/gcc/mingw32/4.5.2/../../../../include/float.h" 2 3
+# 96 "p:\\maxoid\\programs\\gcc c++\\mingw\\bin\\../lib/gcc/mingw32/4.5.2/../../../../include/float.h" 3
+extern "C" {
+
+
+
+
+
+ unsigned int __attribute__((__cdecl__)) __attribute__ ((__nothrow__)) _controlfp (unsigned int unNew, unsigned int unMask);
+ unsigned int __attribute__((__cdecl__)) __attribute__ ((__nothrow__)) _control87 (unsigned int unNew, unsigned int unMask);
+
+
+ unsigned int __attribute__((__cdecl__)) __attribute__ ((__nothrow__)) _clearfp (void);
+ unsigned int __attribute__((__cdecl__)) __attribute__ ((__nothrow__)) _statusfp (void);
+# 121 "p:\\maxoid\\programs\\gcc c++\\mingw\\bin\\../lib/gcc/mingw32/4.5.2/../../../../include/float.h" 3
+void __attribute__((__cdecl__)) __attribute__ ((__nothrow__)) _fpreset (void);
+void __attribute__((__cdecl__)) __attribute__ ((__nothrow__)) fpreset (void);
+
+
+ int * __attribute__((__cdecl__)) __attribute__ ((__nothrow__)) __fpecode(void);
+
+
+
+
+
+
+
+ double __attribute__((__cdecl__)) __attribute__ ((__nothrow__)) _chgsign (double);
+ double __attribute__((__cdecl__)) __attribute__ ((__nothrow__)) _copysign (double, double);
+ double __attribute__((__cdecl__)) __attribute__ ((__nothrow__)) _logb (double);
+ double __attribute__((__cdecl__)) __attribute__ ((__nothrow__)) _nextafter (double, double);
+ double __attribute__((__cdecl__)) __attribute__ ((__nothrow__)) _scalb (double, long);
+
+ int __attribute__((__cdecl__)) __attribute__ ((__nothrow__)) _finite (double);
+ int __attribute__((__cdecl__)) __attribute__ ((__nothrow__)) _fpclass (double);
+ int __attribute__((__cdecl__)) __attribute__ ((__nothrow__)) _isnan (double);
+
+
+}
+# 2 "show.cpp" 2

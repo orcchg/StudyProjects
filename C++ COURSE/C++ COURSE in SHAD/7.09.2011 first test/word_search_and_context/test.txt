@@ -1,0 +1,1491 @@
+ICARUS 19, 372-389 (1973) 
+
+Optical Properties of Some Terrestrial Rocks and Glasses 
+
+JAMES B. POELACK 
+
+Space ,Ycience Division, Ames Research Center, NASA, 
+Jlo~ett Field, California 94035 
+
+OWEN B. TOON 
+
+AND 
+BISHUN N. KHARE 
+
+J,aboratory for Planetary ~Ytudies, Center for Radiophyxics and Space Research 
+Cornell Cniversity, Ithaca, New York 11850 
+
+
+Received January 15, 1973 
+
+
+The optical constants of five naturally occurring rocks have been determined 
+in the spectral range between 0.2 and 50 pm. Between 0.2 and 5 pm, tho real and 
+imaginary parts of the index of refraction were found from a combination of 
+reflectivity and transmission measurements by using Beer’s law and the Fresnel 
+reflectivity equation. At wavelenths beyond 5 pm only reflectivity measurements 
+could be made and both constants were found from an application of classical 
+dispersion theory. These optical constants will be valuable for studies of the 
+interaction of light with rock surfaces, atmospheric dust and interplanetary and 
+interstellar dust grains. 
+
+INTRODUCTION 
+determine because rock surfaces tend to be 
+chemically and structurally inhomo-
+
+A knowledge of the optical constants of 
+
+geneous. These inhomogeneities cause
+
+naturally occurring rocks and glasses is of 
+
+scattering which can make reflection and
+
+value for understanding the 
+interaction 
+
+transmission studies difficult to interpret.
+
+of light with rock surfaces, atmospheric 
+
+Egan and Becker (1969) have suggested
+
+dust and interplanetary and 
+interstellar 
+
+that measurements with polarized light at
+
+dust grains. Unfortunately, 
+the optical 
+
+Brewster’s angle will minimize the scat-
+
+constants of naturally occurring rocks and 
+
+tering problem. However, this technique
+
+glasses have been found only at a few 
+
+can be used to determine the imaginary
+
+wavelengths (Egan and Becker, 1969). 
+
+part of the index of refraction only when
+
+Even for minerals the optical constants 
+
+it is not too large or too small. This con-
+
+are known over a broad wavelength range 
+
+dition is met at only a few wavelengths for
+
+only for a few materials, such as quartz 
+
+the materials studied here. In addition, the
+
+(Spitzer and Kleinman, 1961; 
+Simon and 
+
+real part of the index of refraction can be
+
+McMahon, 1953). In this paper 
+we present 
+
+determined only if the imaginary part is 
+
+a laboratory determination of the real (n) 
+
+not too large, a condition which holds for
+
+and imaginary (k) parts of the complex 
+
+our samples in the visible and 
+near infra-
+
+index of refraction, N, where 
+
+red, but not in the middle infrared. 
+In the present study, the extinction
+
+N=n--ik. 
+(1) 
+
+coefficient, k, is determined by obtaining 
+We have obtained estimates of II: for 5 transmission spectra of a set of thin 
+common, naturally occurring rocks and sections of varying thickness. Using Beer’s 
+glasses in the 0.2-50 pm wavelength region. law one can find the extinction coefficient 
+
+The optical constants are difficult to independent of surface reflection or scat-
+
+Copyright 0 1973 by Academic Press, Inc. 
+
+372
+
+All right5 of reproduction in any form reserved. 
+Printed in Great Britain. 
+
+
+TERRESTRIAL ROCKS 
+
+tering effects, although not independent of 
+volume scattering effects. With the ex-
+
+tinction coefficient determined, 
+tive index, n, can be calculated 
+flection spectra using Fresnel’s 
+This approach works well in 
+violet, visible, and up to about 
+
+the refrac- 
+
+from re-
+
+equation. 
+the ultra-
+5 pm in the 
+
+near infrared. Beyond 5 pm the absorption 
+
+becomes so high that 
+measurements are unreliable. 
+constants can then be found 
+reflection spectra by means 
+theory. 
+
+For glasses such as obsidian 
+glass the optical constants 
+manner agree very well with 
+
+transmission 
+The optical 
+solely from 
+
+of dispersion 
+
+and basaltic 
+
+found in this 
+those found 
+
+independently. For rocks such as andesite 
+and basalt which cannot be polished well 
+and therefore suffer from scattering errors, 
+the optical constants do not seem to have 
+systematic errors of more than a few 
+percent. 
+
+EXPERIMENTAL METHODS 
+
+Two samples of obsidian (from Little 
+Glass Mt., California and Lake County, 
+Oregon) and one sample each of basaltic 
+
+TABLE 
+
+AND GLASSES 
+
+glass, basalt and andesite were cut into 
+l-cm thick slabs and into a series of thin 
+sections of nominal thickness 30, 100, 300, 
+and 1OOOpm. The thin sections were 
+ground as finely as possible on one face 
+and polished on the other, care being 
+taken to insure that the two faces were 
+parallel. The actual thickness of each 
+section was found using a calibrated 
+microscope that could be read to about 
+1 pm. The l-cm slabs were highly polished 
+using standard techniques involving a 
+final polish with optical grade tin oxide. 
+The polishing and sectioning was done 
+
+commercially by Fred Roberts Petro-
+graphic Section Service, Monterey Park, 
+California. 
+
+Each sample was chemically analyzed 
+by Kenneth Ramlal of the University of 
+Manitoba, Dept. of Earth Sciences, using 
+x-ray floresence , atomic absorption and 
+related techniques. The results appear in 
+Table I. 
+
+Reflection and transmission spectra of 
+the prepared sections were obtained with 
+a Cary 14 spectrophotometer from 0.2 
+to 2.5 pm, and with a Perkin Elmer 621 
+spectrophotometer from 2.5 to 50pm. 
+
+1 
+
+CHEMICALANALYSIS 
+Obsidian Obsidian 
+Little Glass Lake Co. Basaltic 
+Mt., Calif. Oregon glass Basalt Andesite 
+SiO, 73.45 76.20 53.45 53.25 54.15 
+AM% 13.67 13.06 15.26 16.87 16.49 
+Fe& 0.51 0.41 5.24 3.11 2.56 
+Fe0 1.21 0.60 2.71 4.68 4.96 
+MgO 0.32 0.12 7.06 6.19 6.04 
+cao 1.07 0.44 11.64 8.02 7.13 
+Na,O 4.57 4.41 2.29 3.56 3.73 
+GO 4.28 3.91 0.52 0.96 2.02 
+H,O+ 0.29 0.26 0.06 0.89 1.06 
+H,O-0.07 0.10 0.03 0.43 0.11 
+co2 0.00 0.08 0.02 0.27 0.16 
+TiOz 0.23 0.09 1.16 0.87 1.03 
+pzo, 0.07 0.02 0.12 0.23 0.29 
+MnO 0.02 0.14 0.23 0.16 0.14 
+BaO 0.104 0.074 0.015 0.059 0.052 
+Total 99.86 99.91 99.80 99.55 99.92 
+
+
+POLLACK,TOON,ANDKHARE 
+
+Both are dual beam instruments. Each 
+spectrum was obtained at least twice, 
+usually on different days with different 
+orientations of the rock surfaces. This gave 
+some idea of the importance of effects due 
+to large scale inhomogeneities in the rock, 
+to orientation of the rock, or to random 
+experimental error. Generally, each re-
+peated spectrum agreed with the original 
+to within a few percent. 
+
+A retlectometer built by Barnes Engin-
+eering Company was used to obtain 
+reflection spectra with the Perkin Elmer 
+instrument. These measurements were 
+made at an angle of 11" from normal 
+incidence, with the reflectivity measured 
+relative to a standard mirror. The standard 
+mirror was assumed to reflect 96% of the 
+incident energy at all wavelengths between 
+
+2.5 and 5Opm. A reflectometer built by 
+P. L. Hartman and E. Logothetis (1964) 
+was used with the Cary 14 machine. This 
+device measures the absolute reflectivity 
+at a 13” angle from normal incidence. 
+The Perkin Elmer and Cary 14 spectro-
+photometers were checked against each 
+other and against a second Cary 14 by 
+measuring the transmission through 
+various metal screens and checking for 
+continuity across the overlapping wave-
+lengths. The agreement was within the 
+minimum experimental error of about 1% 
+encountered in using the instruments. 
+
+Measurements for which the sample 
+beam intensity was less than 1% of the 
+reference beam intensity were generally 
+disregarded, since they are particularly 
+sensitive to stray light and other errors. 
+The Perkin Elmer is nonlinear in wave-
+length and greatly compresses the region 
+from 30 to 50pm. Taken together with 
+changes in the optical system of the 
+machine this makes small changes in the 
+spectra from 30 to 5Opm difficult to detect. 
+The Cary 14 produced erratic intensity 
+measurements in the range from 0.7 to 
+2.5pm. Although not greatly different 
+from the values expected, they were 
+clearly in error. This is attributed to light 
+scattering in the samples, which is sig-
+nificant in this part of the spectrum 
+because of the optical system used. Con-
+sequently, the data have been linearly 
+
+extrapolated across this region. The extra-
+polation is consistent with the actual 
+behavior of the spectra. 
+
+OPTICALCONSTANTS .2-5pm 
+
+We will first discuss our estimate of the 
+extinction coefficients and then turn to our 
+determination of the refractive indices. In 
+the spectral regions where reliable trans-
+mission measurements can be made 
+through various thickness, t, of rock, the 
+sum of the extinction coefficient (k) and 
+volume scattering coefficient (k,) can be 
+found from Beer’s Law (Wendlandt and 
+Hecht, 1966, Lothian, 1963). 
+
+I = I, (1 -R)2 exp[-47r(k + k,) t/h] (2) 
+
+In the above equation I, I,, R, and X are 
+the measured intensity, the intensity 
+measured in the absence of the sample, the 
+surface reflectivity, and the wavelength 
+respectively. Rewriting this in terms of 
+logarithmic absorption units, we have 
+
+47r(k + k,) 
+
+log,,+= Xln 1. t-21nf&R). (3) 
+
+The slope of the straight line found from 
+plotting the transmission in absorption 
+units against the thin section thickness 
+uniquely determines the volume scattering 
+plus extinction coefficients. This measure-
+ment is independent of surface effects 
+which enter as the intercept of the plot. 
+The average deviation of the data from a 
+least mean square fit determines the 
+degree to which Beer’s law is obeyed. This 
+is commonly used as a check for stray 
+radiation, multiple scattering, or other 
+experimental error (Lothian, 1963). For 
+the glasses the data presented here yield 
+deviations from a least mean square fit 
+which are not any larger than the un-
+certainties of about a percent associated 
+with the individual measurements. Trans-
+mission spectra could only be made 
+through two thin sections for andesite and 
+basalt because of their high opacity, so that 
+this check on the data cannot be applied. 
+
+The extinction coefficients (assuming k, 
+to be negligibly small) are given in Table 
+II and shown graphically from 0.2 to 
+
+
+TABLE II 
+
+OPTICAL CONSTANTS 
+
+Obsidian-Little Obsidian-Lake 
+Glass Mt. Calif. Co. Oregon Basaltic glass Basalt Andesite 
+Wavelength 
+X (pm) n k x lo3 n k x lo3 n k x lo3 n k x lo3 n k x lo3 
+
+0.21 
+1.62 1.60 1.68 1.59 1.60 
+.23 1.59 1.58 1.65 1.54 1.56 
+.25 1.55 1.55 1.61 1.53 1.53 
+.27 1.54 1.53 1.60 1.52 1.50 
+.29 1.53 1.53 1.60 1.48 
+.30 1.51 0.38 1.51 0.24 1.60 1.47 0.91 
+.32 1.49 .27 1.50 .097 1.59 0.97 .99 
+.34 1.49 .25 1.49 .047 1.58 .93 1.0 
+.36 1.49 .21 1.49 .028 1.57 .93 1.1 
+.38 1.49 .20 1.49 .024 1.57 .87 1.1 
+.40 I .49 .20 1.49 .022 1.57 0.79 .86 1.2 
+.42 1.48 .20 1.48 .023 1.57 .64 .85 1.2 
+.44 .21 .023 1.57 .54 .88 1.3 
+.46 .21 .023 1.57 .51 .88 1.3 
+.48 .22 .024 1.57 .50 .91 1.3 
+.50 1.48 .23 1.48 .025 1.57 .48 1.52 .92 1.47 1.4 
+.52 .23 .026 .47 .92 1.4 
+.54 .24 .027 .46 .93 1.4 
+.56 .25 .028 .45 .95 1.5 
+.58 .26 .028 .44 .95 1.5 
+.60 .27 .029 .43 .99 1.5 
+.70 .30 .031 .47 1.1 1.7 
+.80 .33 .036 .53 1.3 1.9 
+.90 .37 .040 .56 1.4 2.1 
+
+1.00 1.47 .40 1.46 .044 1.55 .58 1.51 1.6 1.47 2.3 
+
+1.10 
+.41 .048 .60 1.7 2.5 
+
+1.20 
+.44 .051 .62 1.8 2.7 
+
+1.30 
+.47 .057 .63 1.9 2.9 
+
+1.40 
+.47 .059 .63 2.1 3.0 
+
+1.50 1.46 .50 1.45 .064 1.54 .63 1.51 2.2 1.47 3.2 
+
+
+POLLACK, TOON, AND KHARE 
+
+
+TERRESTRIAL ROCKS AND GLASSES 
+
+
+TABLE II-cmtinued 
+
+% 
+
+m 
+
+Obsidian-Little Obsidian-Lake 
+Glass Mt. Calif. Co. Oregon Basaltic glass Basalt Andesite 
+Wavelength -
+Npm) n k x 103 n kx 103 n k x 103 n k x lo3 n k x lo3 
+
+19.5 1.14 540 1.14 500 1.46 590 1.88 470 1.79 470 
+
+20 1.08 720 1.06 680 1.50 690 1.84 420 1.76 420 
+
+20.5 1.07 980 1.03 940 1.57 770 1.78 400 1.71 400 
+
+21 1.18 1300 1.11 1300 1.66 840 1.73 430 1.66 420 
+
+21.5 1.46 1600 1.38 1600 1.77 890 1.70 480 1.63 470 
+
+22 1.94 1700 1.92 1800 1.89 910 1.69 540 1.62 530 
+
+22.5 2.39 1500 2.43 1500 2.00 890 1.71 620 1.65 600 
+21 
+
+23 2.56 1200 2.56 1200 2.10 850 1.77 676 1.70 660 
+F 
+
+23.5 2.59 940 2.57 950 2.18 790 1.84 710 1.77 690 
+
+k 
+
+24 2.59 780 2.57 810 2.24 730 1.92 710 1.84 690 
+“! 
+
+25 2.56 540 2.56 580 2.31 590 2.02 670 1.94 650 
+
+g
+
+26 2.49 380 2.51 410 2.33 480 2.11 700 2.01 660 
+
+27 2.42 280 2.44 300 2.32 390 2.24 530 2.10 530 
+3 
+
+28 2.36 220 2.38 230 2.31 330 2.20 450 2.08 480 
+
+29 2.31 180 2.33 185 2.29 280 2.19 431 2.08 470 
+
+5 
+
+30 
+2.26 150 2.28 150 2.27 240 2.20 420 2.11 470 
+II
+
+35 2.20 66 2.32 76 2.20 140 2.26 240 2.21 270 
+
+40 2.03 80 2.26 120 2.15 97 2.21 130 2.16 150 
+
+E
+
+45 1.96 95 2.29 130 2.12 75 2.16 89 2.11 97 
+
+50 1.96 110 2.29 140 2.11 61 2.14 71 2.08 73 
+
+
+TERRESTRIAL ROCKS AND GLASSES 
+
+3.5pm in Fig. 1. A minor amount of 
+smoothing has been done to join regions 
+where the optics change in the spectro-
+photometers, or regions in which the 
+number of sections through which trans-
+mission measurements are possible, change. 
+
+Across the above range of wavelengths 
+the extinction coefficient differs con-
+siderably between rocks and glasses. There 
+are two orders of magnitude between the 
+more transparent obsidian and andesite. 
+The two obsidians differ by one order of 
+magnitude which results in a difference in 
+transmission readily apparent to the 
+naked eye. An interesting spectral feature 
+occurs near 2.8 pm which can be attributed 
+to water, bound in the rocks and glasses 
+(Lyon, 1963). 
+
+A Obddlon Little Gloss Mt. 
+A Obsidm Lok Co Orqon 
+oooool~IO 15 20 25 30 35 
+
+FIG. 1. Optical constants 0.2-3.5pm. The 
+refractive index of andesite and obsidian (Little 
+Glass Mt.) have been left out for clarity. The 
+bars near 0.5pm on the refractive index of 
+obsidian and basaltic glass are Becke Line 
+measurements. 
+
+The refractive index can be found once 
+the extinction coefficient is known by 
+using Fresnel’s equation for reflection at 
+normal incidence : 
+
+R = (n -1)2 + k2 
+
+(4)
+(n-t 1)2 +k2’ 
+
+This equation is known to be applicable 
+even for reflection not at normal incidence 
+so long as the angle of incidence is small 
+(Wendlandt and Hecht, 1966). 
+
+The refractive index is given in Table II 
+and shown up to 3.5pm in Fig. 1. Because 
+the refractive indices of the two obsidian 
+samples and of the basalt and andesite 
+samples are quite similar, only the Lake 
+Co. obsidian, basalt and, basaltic glass 
+values are plotted in Fig. 1. An indepen-
+dent check on the refractive index in the 
+visible can be made using the Becke line 
+method. This technique consists of micro- 
+scopically comparing the rocks with a set 
+of liquids whose refractive indices are 
+known. A comparison between the values 
+of the refractive index derived from the 
+reflection measurements and the Becke 
+Line techniques is shown in Fig. 1 for 
+several of the samples. For all three glasses 
+the Becke line index agrees with the index 
+determined from the reflectivity to within 
+the accuracy of the measurements. Be-
+cause the andesite and basalt are opaque 
+and microscopically inhomogeneous the 
+Becke line method cannot be used. How-
+ever, published data indicate that for 
+“glassy” andesite the refractive index at a 
+fixed wavelength in the visible lies between 
+
+1.489 and 1.529, averaging 1.512 (George, 
+1924). The refractive index found from 
+reflectivity measurements appears to be 
+systematically lower than the average by 
+about 3%. For basalt the only published 
+refractive index indicates a difference of 
+nearly 10% in the refractive index found 
+from reflectivity measurements. However, 
+it is likely that basalt shows a very large 
+variation from rock to rock. For example 
+basaltic glass, a basalt derivative, has 
+refractive indices ranging from 1.506 to 
+1.612. The 10% error in refractive index, 
+which corresponds to the measured re-
+flectivity being only two-thirds of what it 
+should be, is probably an upper limit to 
+
+380 POLLACK, TOON, 
+
+the systematic error in t’he data given 
+here. 
+
+OPTICAL CONSTANTS 5-50 pm 
+
+Beyond 5 pm reliable transmission 
+measurements could not be made and it was 
+therefore necessary to find the optical 
+constants from reflection spectra alone. 
+There are numerous methods of doing this, 
+including measurements of reflectance at 
+two angles (Simon, 1951) and calculations 
+based upon single spectra at normal 
+incidence using the KramersKronig re-
+lations or dispersion theory (Spitzer and 
+Kleinman, 1961). The dispersion approach 
+has been adopted here because it is the 
+simplest both experimentally and mathe-
+matically, produces more reliable results 
+for small extinction coefficients, and has 
+been successfully applied to complex 
+spectra such as quartz (Spitzer and 
+Kleinman, 1961). 
+
+AND KHARE 
+
+Dispersion analysis consists of attribu-
+ting the reflection spectra to a set of 
+classical oscillators. One attempts to 
+determine the wavelength, X,, strength 
+p, and width, r, associated with these 
+oscillators, as well as the short wavelength 
+dielectric constant, A. This determination 
+may be facilitated by assuming initially 
+that each reflection feature represents an 
+oscillator that is isolated from every other 
+oscillator. Using the simplified single band 
+theory presented by Hansen and Pollack 
+(1970) and Fresnel’s equation, one can 
+obtain a,n initial estimate of the dielectric 
+constant A, and all three parameters for 
+each oscillator. 
+
+According to Hansen and Pollack : 
+
+P(W2 
+
+(5)
+nk = jAh)2 + (T/2)2 
+
+PTAX
+
+n2 _ ,l$ = A2 + -----.--- 
+
+(6)
+(AA)2 + (r/2)2 
+
+FIG. 2. Dispersion analysis for andeske. hasalt and basaltic glass. The data, indicated 11~ a solid 
+dot with its associated error hw. rrpresellt, the c~xperimeutal reflectivity obainrd fwln srwral 
+spectra. The curve is the reflectivity calculated from the dispersion analysis. 
+
+
+TERRESTRIAL ROCKS 
+
+where the band strength p is related to the 
+parameter P by 
+
+2Pr
+
+4 7i-p = ~ (7)
+43 
+and Ah is the difference in wavelength 
+between the value of interest h and X, the 
+position of maximum nk, which is approx- 
+imately the position of maximum re-
+flectivity. Combining the above equations 
+with the Fresnel reflectivity equation and 
+successively setting AX = 0, r/2, -co, we 
+obtain first order estimates of h,, A, r and 
+P for each observed reflectivity feature. 
+With these first order guesses one utilizes 
+the full dispersion equations written in 
+terms of these parameters (Spitzer and 
+Kleinman, 1961) : 
+
+n2 - k2 = 
+
+X2(X2 -h .‘) 
+
+~2+73$~2 _ Xj2)2 +Jrj2h2 
+I 
+
+(8) 
+AND GLASSES 381 
+
+c 
+c
+P.r.=h’ 1 
+
+nk = 
+
+--JJ pi _ hj2)2 + Tj2h2 (9) 
+.i 
+
+Ai 
+
+where the subscriptj refers to an individual 
+oscillator. These two equations can be 
+solved for n and k which in turn lead to the 
+reflectivity, R, through Fresnel’s equation. 
+One compares this reflectivity with the 
+experimental one and, based on the differ- 
+ence between the two, guesses better values 
+for the dispersion parameters. This goes on 
+until the dispersion and experimental 
+curves match. Of course, care must be 
+taken to use only the minimum number of 
+oscillators necessary to make a good fit. 
+In practice one does all this calculating by 
+
+machine. It is possible to calculate, print 
+
+and plot n, k and R from the hypothetical 
+dispersion parameters for up to 9 oscilla- 
+tors, at wavelengths from 0 to 50pm, in a 
+
+matter of a few minutes and very cheaply 
+using a Hewlett Packard 9100 B series 
+desk”calculator, plotter, and printer. 
+
+FIG:. 3. Dispersion analysis for obsidian. Tllr data. irltficatcd by a sulict dot \vitll its associated ~~01 
+bar, rcprcscnt the experimental reflectivity o~~taincd from set-em1 spectra. The curve is the reflcctirit) 
+calculated from the dispersion analysis. 
+
+
+382 POLLACK, TOON, AND KHARE 
+TABLE III 
+DISPERSIONPARAMETERSFORTHE ROCK SAMPLES 
+
+Sample 
+
+Obsidian 
+Little 
+Calif. 
+Glass Mt., 
+8.54 
+9.64 
+14.32 
+22.25 
+23.45 
+Obsidian 
+Lake Co., 
+Oregon 
+8.54 
+9.64 
+14.32 
+22.24 
+23.66 
+Basaltic 
+glass 
+9.80 
+10.53 
+22.52 
+Basalt 9.27 
+10.10 
+10.53 
+16.73 
+18.57 
+23.87 
+26.27 
+30.41 
+Andesite 9.33 
+10.10 
+10.68 
+16.73 
+18.63 
+23.87 
+26.27 
+30.41 
+
+A comparison between the measured 
+reflectivity and that predicted by the 
+dispersion analysis is shown in Figs. 2 and 3. 
+The observed values are indicated by dots 
+with their associated error bars, while the 
+solid line represents the predicted value. 
+The dispersion parameters are given in 
+Table III. 
+
+From 2.5 to 30pm the dispersion 
+reflectivity fits the experimental reflec-
+tivity to 0.4% in absolute value 
+for andesite, basalt, and basaltic glass, 
+and 0.9% for obsidian. The experimental 
+error in measuring the reflectivity averages 
+1.4% for andesite, basalt and basaltic glass 
+and 0.8% for obsidian. The larger difference 
+between dispersion analysis and measured 
+
+r 
+(pm) 4VP A 
+0.447 0.026 1.45 
+0.774 .514 
+6.32 .287 
+2.0 .458 
+4.47 .476 
+0.447 0.026 1.45 
+,774 .530 
+6.32 .287 
+1.73 .428 
+4.47 .520 
+1.58 0.403 1.55 
+1.22 .261 
+7.07 1.099 
+.95 0.164 1.52 
+.95 .273 
+.71 .135 
+1.73 .145 
+2.30 .198 
+5.48 .505 
+1.41 .048 
+9.49 .374 
+0.84 0.140 1.48 
+.95 .251 
+.63 .112 
+1.73 .124 
+2.45 .191 
+5.48 .459 
+1.41 .032 
+9.49 .437 
+
+reflectivity for the obsidians than for the 
+other materials is due to the obsidians 
+having higher, steeper bands. A minor 
+change in the width of the dispersion curve 
+therefore yields a large change in the 
+difference between measured and calcula-
+ted reflectance. The greatest experimental 
+error is 3.2% while the worst mismatch 
+between dispersion and experiment is 
+4.4% in absolute values. In both cases the 
+greatest errors occur on the sides of bands. 
+
+The data beyond 30pm indicate the 
+presence of bands beyond 50p.m (Spitzer 
+and Kleinman, 1961). For this reason it was 
+not possible to fit the experimental data 
+exactly from 30 to 50pm. This part of the 
+spectrum is further confused by the 
+
+
+TERRESTRIAL ROCKS AND GLASSES 383 
+
+experimental difficulties already men-
+tioned, making small slopes upwards or 
+downwards difficult to detect. It should 
+also be noted that the dispersion analysis 
+only takes into account the Restrahlen 
+features beyond 8pm. It does not include 
+the transmission feature near 2.8pm, nor 
+the ultraviolet bands. Thus, the dispersion 
+analysis becomes unreliable at very short 
+wavelengths. 
+
+The dispersion parameters themselves 
+are not the object of this study. Their 
+accuracy is difficult to judge because of the 
+interconnection between the bands. By 
+fixing all the dispersion parameters except 
+one, and varying it until some noticeable 
+change occurs in the calculated reflection 
+spectrum some idea of the accuracy of the 
+
+26-
+
+parameters can be found: A, has an un-
+certainty of less than 0.5%, while the 
+error in A, p, and .P is on the order of 2%. 
+The error is difficult to judge where bands 
+overlap. The band at the highest wave-
+length is particularly uncertain due to 
+overlap with preceding bands, experi-
+mental uncertainty beyond 30t~m, and the 
+possibility of bands beyond 50pm which 
+have not been included. 
+
+The optical constants found from the 
+dispersion analysis are given in Table II. 
+Figure 4 shows the optical constants for the 
+Glass Mt. obsidian, basaltic glass and 
+andesite samples. The Lake Co. obsidian 
+and basalt samples have indices very 
+similar to the Glass Mt. obsidian and 
+andesite sample at these wavelengths. 
+
+.----.-Anderile 
+
+-S~asdtic Glass 
+---Obridion Little Glass Mt 
+
+OK01occd ’I 
+5 
+55 
+k 
+kk 
+IO 
+IOIO 
+, 
+,, 
+I5 
+I5I5 
+I 
+II 
+I 
+II 
+20 
+2020 
+25 
+2525 
+X 
+XX 
+in 
+inin 
+microns 
+micronsmicrons 
+I 
+II 
+30 
+3030 
+I 
+II 
+35 
+3535 
+I 
+II 
+40 
+4040 
+I 
+II 
+45 
+4545 
+I 
+II 
+50 
+5050 
+FIG. 
+FIG.FIG. 
+obsidian 
+obsidianobsidian 
+group 
+groupgroup 
+4. 
+4.4. 
+Optical 
+OpticalOptical 
+samples 
+samplessamples 
+has 
+hashas 
+been 
+beenbeen 
+constants 
+constantsconstants 
+of 
+ofof 
+obsidian, 
+obsidian,obsidian, 
+basaltic 
+basalticbasaltic 
+are 
+areare 
+very 
+veryvery 
+similar 
+similarsimilar 
+as 
+asas 
+are 
+areare 
+those 
+thosethose 
+of 
+ofof 
+plotted 
+plottedplotted 
+for 
+forfor 
+the 
+thethe 
+sake 
+sakesake 
+of 
+ofof 
+clarity. 
+clarity.clarity. 
+glass 
+glassglass 
+basalt 
+basaltbasalt 
+and 
+andand 
+andesite. 
+andesite.andesite. 
+and 
+andand 
+andesite. 
+andesite.andesite. 
+The 
+TheThe 
+Hence, 
+Hence,Hence, 
+optical 
+opticaloptical 
+only 
+onlyonly 
+constants 
+constantsconstants 
+one 
+oneone 
+member 
+membermember 
+of 
+ofof 
+of 
+ofof 
+both 
+bothboth 
+each 
+eacheach 
+15 
+1515 
+
+
+
+POLLACK, TOON, AND KHARE 
+
+Their optical constants are shown separ-
+ately in Figs. 6 and 7 which are discussed 
+later. 
+
+The optical constants could have sig-
+nificant errors if the dispersion analysis is 
+extremely sensitive, or if the reflectivity 
+measurements upon which the dispersion 
+analysis is based are greatly influenced by 
+scattering. The agreement between the 
+Becke line measurement and the refractive 
+index found from the reflectivity indicate 
+that scattering effects are very small for 
+the glasses in the visible. Microscopic 
+examinations indicate the surface rough-
+ness of the glasses is quite small so that the 
+reflectivity at the larger wavelengths upon 
+which the dispersion analysis is based 
+should be even less influenced by scattering. 
+The effects of scattering are more difficult 
+to evaluate for basalt and andesite. Once 
+again microscopic investigation leads one 
+to expect that scattering should be much 
+less important at large wavelengths. For 
+example, studies of the effects of surface 
+roughness on normal reflection from 
+polished surfaces indicate that even if the 
+ratio of the measured to real reflectivity 
+is only 66% at 0.5pm, by 1Opm the ratio 
+will be well over 96% (Bennett and Por-
+teus, 1961). 
+
+A check of the effect upon the optical 
+
+40 I I I I I-I 
+OBSIDIAN 
+35-
+
+constants of small changes in the dispersion 
+
+parameters is easily made. Figures 5 and 6 
+
+show the results of adding and subtracting 
+
+entire bands from the dispersion model of 
+
+obsidian (Lake Co. Oregon). In Fig. 5 we 
+
+compare the reflectivity values predicted 
+
+by two dispersion analyses with the 
+
+observed values, while in Fig. 6 we show 
+
+the differences in optical constants im-
+
+plied by the two analyses. The primitive 
+
+model indicated by the dotted curve in 
+
+Fig. 5, and the squares in Fig. 6 contains 
+
+only two bands, while the more sophistica-
+
+ted one, indicated by the solid curve in 
+
+Fig. 5 and the triangles in Fig. 6, adds a 
+
+weak band just short of the main g-pm 
+
+band, a relatively strong, but broad band 
+
+at about 14pm, and a relatively strong 
+
+band at about 23.5pm. The first two are 
+
+required to account for low amplitude 
+
+shoulders and peaks that are apparent in 
+
+the data and reported in other published 
+
+spectra (Lyon, 1964). The band at 23.5~” 
+
+is needed to fit the far side of the major 
+
+band located there. 
+
+The band short of 9pm produces very 
+
+little change in the optical constants. The 
+
+same effect was noted in the other rocks; 
+
+superimposing bands to make a large one, 
+
+or to account for small structure in a large 
+
+band results in optical constants that 
+
+( I I I I 
+LokeCaOreQon 
+
+0 2 4 6 8 IO I2 14 16 IS 20 % 24 26 28 30 
+x I” rt,cro”s 
+
+FIG. 5. Two-band and five-band dispersion models of obsidian. The full curve is based on a five-
+oscillator dispersion analysis and the dashed curve on a two-oscillator analysis. The dots with error 
+bars are the experimental reflectivity. 
+
+
+TERRESTRIAL ROCKS AND GLASSES 
+
+FIG. 6. Optical constants of obsidian. The curve 
+The solid dots represent optical constants obtainod 
+Beer’s law and Fresnel’s equation. The squares 
+dispersion analysis, and the triangles represent 
+analysis. Tlrc mismatch of dots and triangles near 
+sis between 8 and 8 pm as shown in Fig. 5. 
+
+differ little from those obtained using a 
+crude fit. The same is true of the band at 
+23.5pm. It hardly affects the optical 
+constants within the band although it does 
+improve the values significantly at long 
+wavelengths. After adding the bands near 
+9 and 23.5pm, the necessity of adding 
+another at around 14~” is much more 
+apparent than is indicated by the devia-
+tion of the crude two-band model from the 
+experimental data shown in Fig. 5. This 
+band produces a relatively large change in 
+the optical constants and one must there-
+fore be very careful to account for even low 
+amplitude reflectivity features that are 
+
+represents the final smoothed optical constants. 
+
+from transmission and reflection spectra using 
+represent optical constants from the two-band 
+optical constants from the five-band dispersion 
+
+5 pm is due to the mismatch of the dispersion analy-
+
+found in regions between large amplitude 
+
+bands. 
+
+The ultimate test of the dispersion 
+analysis is to compare the extinction co-
+efficients obtained from it with those 
+obtained. using transmission techniques in 
+spectral regions where both techniques are 
+applicable. Beyond 6pm the samples 
+become too opaque to be able to use the 
+transmission technique, while short of 
+4pm, bands which are not allowed for by 
+the dispersion analysis, such as the 3-pm 
+water band, become important. A com-
+parison from 4 to 6~” can be made from 
+Figs. 6 and 7 for the Lake Co. obsidian and 
+
+
+386 POLLACK, TOON, AND KHARE 
+
+4 8 12 ‘6 20 24 28 32 ‘36 40 44 46 52 
+
+FIG. 7. Optical constants of basalt. The curve represents the final smoothed optical constants. The 
+solid dots represent optical constants obtained from transmission and reflection spectra using 
+Beer’s Law and Fresnel’s equation. The open dots represent optical constants obtained by the 
+dispersion analysis. The two sets of data are expected to yield similar extinction coefficients only 
+near 5 pm. 
+
+the basalt samples, respectively. In Fig. 7 included in the dispersion analysis, have 
+the solid dots refer to values obtained by some effect upon the optical constants. 
+the transmission technique and open 
+circles to ones found from dispersion 
+
+DISCUSSION
+
+analyses. Solid dots and triangles have a 
+corresponding meaning in Fig. 6. We see We will first consider the relationship 
+that the two results are in reasonable between the Restrahlen bands of our rock 
+agreement between 4 and 6pm. The samples and those of quartz and then 
+agreement indicates that the dispersion discuss the band found near 3pm, which 
+analysis is approximately correct and that we tentatively attributed to bound water. 
+volume scattering is not a dominant Spitzer and Kleinman (1961) have mea-
+effect near 5pm. For the obsidian samples sured the reflectivity of quartz between 5 
+transmission measurements can be made and 37pm and have carried out a dis-
+beyond 35pm. The agreement between persion analysis to derive the optical 
+the two techniques is excellent for the constants. Because quartz is unaxial they 
+obsidian from Little Glass Mt., California. have performed the measurements and 
+For the Lake Co. obsidian, shown in Fig. 6, analyses separately for the ordinary (0) 
+the agreement is good, even though the and extraordinary (E) rays. The reflectivity 
+bands beyond 5Opm, which are not of each ray shows four major reflectivity 
+
+
+TERRESTRIAL ROCKS AND GLASSES 
+
+TABLE IV 
+DISPERSION PARAMETERS FOR QUARTZ 
+
+
+Ordinary 8.15 0.897 0.009 
+8.60 .052 .OlO 
+9.33 .066 .67 
+12.55 .113 .ll 
+14.35 .172 .018 
+22.20 .200 .82 
+25.35 .177 .33 
+Extraordinary 8.20 1.23 0.011 
+9.26 .064 .67 
+12.85 .129 .lO 
+18.9 .756 .006 
+19.65 .275 .05 
+20.20 .182 .66 
+27.45 .384 .68 
+
+peaks. This may be compared with three 
+peaks seen for our crystalline rock samples, 
+the andesite and basalt, and two peaks for 
+the glasses. 
+
+A comparison of the dispersion para-
+meters helps account for the difference. 
+The values of the dispersion parameters 
+found for quartz by Spitzer and Kleinman 
+(1961) are summarized in Table IV and 
+may be compared with the values found 
+for our samples, which are listed in Table 
+
+III. The strong bands near 9,12, and 20pm 
+correspond to Si-0 stretch, Xi-Si stretch, 
+and Si-0-Si bending vibrational funda-
+mentals, respectively. We see that the 
+widths r of our rock bands are sub-
+stantially greater than the width of the 
+quartz bands, even if one were to combine 
+the E and 0 bands for quartz. The larger 
+widths of the rock bands can be attributed 
+to the presence of atoms other than Si and 
+0 in their structures as well as imperfec- 
+tions in the crystal structure. As a result 
+of the greater widths of the bands of the 
+crystalline rocks there is a blending of the 
+bands near 2Op.m into a single broad 
+feature, which shows fine structure due to 
+the individual band components. In the 
+case of the obsidian glasses the width of 
+their 14-p” feature is so broad that it 
+causes no major peaking of the reflectivity 
+spectra, even though it has a strength 
+comparable to the other major bands. Also, 
+in the case of the obsidian glasses the two 
+bands near 2Opm are quite close together 
+and are relatively broad so that the 
+corresponding peak in the reflectivity data 
+shows no apparent fine structure. The 
+apparent absence of a band near 14~” for 
+the basaltic glass and the apparent 
+existence of only one band near 20pm 
+can be attributed to width effects rather 
+than to the real absence of such bands. In 
+summary, there is a good correspondence 
+between the major bands derived for 
+quartz and those derived for our rock 
+samples, although the rock bands are 
+much broader and have somewhat differ-
+ent wavelength centers. 
+
+A band near 3t~rn in wavelength was 
+observed for all our samples. As illustrated 
+in Fig. 1 it was particularly well defined 
+for the glasses. The band center, which is 
+located at approximately 2.83pm for all 
+the samples, is in a region where there is an 
+O-H stretch fundamental and so may be 
+attributed to bound water present in the 
+samples. The term bound water encom-
+passes both physically and chemically 
+bound water. The chemical analysis sum-
+marized in Table I indicates that both 
+types of bound water may have been 
+present in the samples. H,O-refers to the 
+amount of water driven off when the 
+
+
+POLLACK,TOON,ANDKHARE 
+
+sample was heated to lOO”C, while H,O+ 
+refers to the amount subsequently driven 
+off by increasing the temperature to 
+1000”c. 
+
+We have carried out two checks to firm 
+up the identification of the 3-p” feature. 
+First if the band is due to bound water the 
+absorption coefficient should vary approxi-
+mately linearly with the amount of bound 
+water. This behavior can readily be seen 
+in Fig. 1 by comparing the values of the 
+extinction coefficients near 3pm for the 
+obsidian glasses with that of the basaltic 
+glass. The latter has about one-third the 
+amount of bound water as the former. 
+When corrections are made for the differ-
+ent water contents the three glass samples 
+show very similar, though not exactly the 
+same, profiles of the 3-ym band. As a 
+second check we computed the value of the 
+integrated absorption coefficient for the 
+3-pm band and compared it with the 
+corresponding figure for ice (Irvine and 
+Pollack, 1968). In performing this cal-
+culation we extrapolated the rock co-
+efficients to the case of 100% bound wrater. 
+We found that the two figures were 
+within a factor of 3 of one another, lending 
+support to the identification. 
+
+Houck et al. (1973) have found a strong 
+3-pm feature in the reflectivity spectrum 
+of Mars and have identified this feature as 
+due to water of hydration. Using our 
+optical constants for the 3-ym band they 
+have been able to generate a synthetic 
+spectrum for Mars, which matches quite 
+closely with the one observed in this 
+wavelength region. This comparison has 
+also enabled them to estimate that the 
+surface material contains 1% bound water 
+by weight. We hope this will be only the 
+first of many application of our data. 
+
+C)ONCLUSION 
+
+The refractive index and extinction 
+coefficient of several igneous rocks and 
+glasses have been found for wavelengths 
+from the ultraviolet through the middle 
+infrared. The experimental and theoretical 
+techniques used are well understood, and 
+most are standard practice. From 0.2 to 
+5pm the optical constants are found 
+
+directly from transmission and reflection 
+measurements. The refractive index so 
+obtained compares well with independent 
+measurements and with values reported in 
+the literature. The transmission measure-
+ments for the glasses in this wavelength 
+range obey Beer’s Law and are therefore 
+likely to be reliable. Beyond 5pm the 
+optical constants are found from a dis-
+persion analysis. These constants agree 
+with those obtained from transmission 
+measurements in the region where both 
+methods are applicable. The dispersion 
+optical constants near the bands seem to be 
+little influenced by small deviations from 
+the experimental reflectivity or by failure 
+to include small bands that are close to 
+larger ones. The principle sources of error 
+are likely to be beyond 30 pm where bands 
+not included in the dispersion analysis 
+may produce small errors, and in regions 
+between Restrahlen bands where very low 
+amplitude reflection features may have 
+been overlooked. 
+
+The optical constants of the rocks and 
+glasses studied are comparable across the 
+entire range of measurements. The only 
+significant difference seems to be in the 
+extinction coefficient shortward of 4 pm. 
+This differs by as much as two orders of 
+magnitude between rocks and glasses, and 
+one order of magnitude between the two 
+samples of obsidian. The two samples of 
+obsidian otherwise produce nearly identical 
+reflection features, have nearly identical 
+dispersion parameters and differ little in 
+their refractive indices. All the samples 
+display a band near 3pm, which is attri- 
+buted to bound water. 
+
+The techniques used here are applicable 
+to any dielectric capable of being polished 
+and cut into thin sections. 
+
+ACKNOWLEDGMENT 
+
+It is a pleasure to acknowledge the useful 
+advice received from Dr. Ronald Greeley, Pro-
+fessor Carl Sagan, Dr. Joseph Veverka, and Dr. 
+
+B. Bonnichsen. It is also a pleasure to thank 
+Professor Paul Hartman for the use of his re-
+floctometer and Cary 14 spectrophotometer 
+and Dr. Ronald Greeley and Mr. Kenneth 
+Snetsinger for providing us with some of our 
+samples. This work was supp. rted in part by 
+
+TERRESTRIALROCKSANDCxLASSES 
+
+NSF grant 6A-23945 and NASA grant N6R-
+33-010-082. 
+
+REFERENCES 
+
+BENNETT, H. E., AND PORTEUS, S. 0. (1961). 
+Relation between surface roughness and 
+specular reflectance at normal incidence. J. 
+Opt. Sot. Amer. 51, 123. 
+
+EGAN, W. G., AND BECKER, J. F. (1969). Deter-
+mination of the complex index of refraction of 
+rocks and minerals. Appl. Opt. 8, 720. 
+
+EGAN, W. G., AND HILGEIIIAN, T. (1971). Optical 
+Properties of naturally occurring rhodo-
+chrosite between 0.33p.m and 2.5pm. AppZ. 
+Opt. 10, 2132. 
+
+GEORGE, W. 0. (1924). Physical properties of 
+natural glasses. J. Geol. 32, 353. 
+
+HANSEN, J. E., AND POLLACK, J. B. (1970). 
+Near infrared light scattering by terrestrial 
+clouds. J. Atmos. Sci. 27, 265. 
+
+HARTMAN, P. L., AND LOGOTHETIS, E. (1963). 
+An absolute reflectometer for use at low 
+temperatures. Appl. Opt. 3, 255. 
+
+HOUCK, J., POLLACK, J. B.,SCHACK, D.,SAGAN, 
+C., AND DECKER, J. (1973). High altitude 
+aircraft infrared spectrometric observations 
+of bound water on Mars. Icarus 18,470, 1973. 
+
+IRVINE, W. M., AND POLLACK, J. B. (1968). 
+Infrared properties of water and ice spheres. 
+Icarus 8, 324. 
+
+LOTHION, G. F. (1963). Beer’s Law and its use in 
+analysis. Analyst 88, 678. 
+
+LYON, R. J. P. (1963). Evaluation of infrared 
+spcctrophotometry for compositional analyses 
+of lunar and planetary soils, Part I. NASA 
+technical report TN D-187 1. 
+
+LYON, R. J. P. (1964). Evaluation of infrared 
+spectrophotometry for compositional analyses 
+of lunar and planetary soils, Part II, Rough 
+and Powdered Surfaces. Final Report NASA 
+Contract NASr-49(04) Stanford Research 
+Institute, Menlo Park, California. 
+
+SIMON, I. (1951). Spectroscopy in infrared by 
+reflection and its use for highly absorbing 
+substances. J. Opt. Sot. Amer. 41, 336. 
+
+SIMON, I., AND MCMAHON, H. 0. (1953). Study 
+of the structure of quartz, Cristobalite, and 
+nitreous silica by reflection in infrared. J. 
+Chem. Phys. 21, 23. 
+
+SPITZER, W. G., AND KLEINMAN, D. A. (1961). 
+Infrared lattice bands of quartz. Phys. Rev. 
+121,1324. 
+
+WENDLANDT, W. W.,AND HECHT, H.G.(1966). 
+“Reflectance Spectroscopy.” John Wiley & 
+Sons, New York. 
+
+
